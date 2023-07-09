@@ -1,0 +1,13 @@
+header {
+    display        : flex;
+    justify-content: space-between;
+
+}
+
+.list-item {
+    display        : flex;
+    justify-content: space-between;
+    width          : 350px;
+    list-style-type: none;
+
+}
